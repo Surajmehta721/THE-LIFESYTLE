@@ -115,7 +115,7 @@ height:100px;
 }
 #bg
 {
-    background-image: url('/photo/bg.jpg');
+    background-image: url('photo/bg.jpg');
     position: fixed;
     top: 0;
     width: 100%;
